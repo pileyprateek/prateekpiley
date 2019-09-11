@@ -1,3 +1,3 @@
 welcome to yash
-devops
+DEVOPS
 AWS
