@@ -4,5 +4,6 @@ DEVOPS
 
 AZURE
 LINUX
+big data
 
 THANKS
